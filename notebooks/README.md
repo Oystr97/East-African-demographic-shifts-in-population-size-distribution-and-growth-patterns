@@ -1,5 +1,5 @@
-# East-African-demographic-shifts-in-population-size-distribution-and-growth-patterns
-## 📊 Data Sources
+### East-African-demographic-shifts-in-population-size-distribution-and-growth-patterns
+### 📊 Data Sources
 The datasets used in this project were downloaded from the following sources:
 - **ICPAC Geoportal** (African Administrative Boundaries)
   - [https://geoportal.icpac.net/](https://geoportal.icpac.net/)
